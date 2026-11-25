@@ -38,12 +38,6 @@ Estudiante de 2.° de DAW con base sólida en tecnologías web. Busco mi primera
 
 ---
 
-*## 📊 Estadísticas de GitHub*
-*(Recuerda cambiar "TU-USUARIO" por tu nombre de usuario real en GitHub para que se carguen tus estadísticas)*
-
-*(![Estadísticas](https://github-readme-stats.vercel.app/api?username=dark9921&show_icons=true&theme=radical))*
-
----
 
 ## 📬 Contacto
 - 📧 **Email:** [hiker933@gmail.com](mailto:hiker933@gmail.com)[cite: 2]
